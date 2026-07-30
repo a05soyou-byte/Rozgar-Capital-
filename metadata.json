@@ -1,0 +1,6 @@
+{
+  "name": "Rozgar Capital",
+  "description": "Dark luxury wealth management platform featuring $1 minimum investment, real asset portfolios, user dashboard, USDT/PKR wallet deposit modal with live FX converter, 2-tier affiliate system, and secret admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
